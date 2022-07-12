@@ -29,16 +29,16 @@
 #### :calling: Contacts
 <section>
   <a href="mailto:http://mishika1221@mail.ru/">
-    <img src="http://cdn.onlinewebfonts.com/svg/img_489898.png" align="left" width="40px"/>
+    <img src="https://pngimg.com/uploads/email/email_PNG14.png" align="left" width="40px"/>
   </a>
   <a href="https://web.telegram.org/z/#948662117">
-    <img src="https://png.monster/wp-content/uploads/2022/03/png.monster-258.png" align="left" width="40px"/>
+    <img src="https://pngimg.com/uploads/telegram/small/telegram_PNG30.png" align="left" width="40px"/>
   </a>
   <a href="https://www.instagram.com/isakov_michail_">
-    <img src="https://cdn-icons-png.flaticon.com/512/87/87390.png" align="left" width="40px"/>
+    <img src="https://img1.freepng.ru/20180330/pxe/kisspng-computer-icons-logo-instagram-5abe0fd98bbeb0.7102070915224053375724.jpg" align="left" width="40px"/>
   </a>
   <a href="https://vk.com/send.menudes">
-    <img src="https://e7.pngegg.com/pngimages/948/829/png-clipart-computer-icons-web-browser-vk-vk-logo-logo-monochrome.png" align="left" width="40px"/>
+    <img src="https://www.dp.ru/assets/images/vk.png" align="left" width="40px"/>
   </a>
 </section>
 
