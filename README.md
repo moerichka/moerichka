@@ -35,7 +35,7 @@
     <img src="https://pngimg.com/uploads/telegram/small/telegram_PNG30.png" align="left" width="40px"/>
   </a>
   <a href="https://www.instagram.com/isakov_michail_">
-    <img src="https://img1.freepng.ru/20180330/pxe/kisspng-computer-icons-logo-instagram-5abe0fd98bbeb0.7102070915224053375724.jpg" align="left" width="40px"/>
+    <img src="https://seeklogo.com/images/I/instagram-logo-041EABACE1-seeklogo.com.png" align="left" width="40px"/>
   </a>
   <a href="https://vk.com/send.menudes">
     <img src="https://www.dp.ru/assets/images/vk.png" align="left" width="40px"/>
