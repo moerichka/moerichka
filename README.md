@@ -1,4 +1,11 @@
-### Hi there 👋
+### 
+<div align="center">
+  <h1 align="center">Privet! I'm Misha and this is my GitHub ✨</h1>
+</div>
+
+####
+**I am React Frontend developer**
+
 
 <!--
 **moerichka/moerichka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
